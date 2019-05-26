@@ -1,1 +1,1 @@
-# Porfolio of Patricia COrtezzi, full-stack developer
+# Porfolio of Patricia Cortezzi, full-stack developer.
